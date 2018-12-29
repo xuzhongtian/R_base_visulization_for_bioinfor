@@ -1,6 +1,6 @@
 ## R_base_visulization_for_bioinfor
 
-This reposity mainly recode how to visulize the NGS omics data via R. 
+This reposity mainly record how to visulize the NGS omics data via R. 
 
 ### Figure1: Expression pattern multiple-line plot. 
 
