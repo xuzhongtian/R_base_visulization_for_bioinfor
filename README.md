@@ -9,4 +9,4 @@ This reposity mainly record how to visulize the NGS omics data via R.
 + **how to use it**: Rscript Base_multiple_line_plot.R
 + **output**: several figures pointed to different expression pattern group. 
 
-![image](https://github.com/wandering513/R_base_visulization_for_bioinfor/raw/master/images/1.multiple_line_plot.png)
+<div align=center><img src=https://github.com/wandering513/R_base_visulization_for_bioinfor/raw/master/images/1.multiple_line_plot.png/></div>
